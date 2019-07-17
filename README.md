@@ -1,24 +1,8 @@
-# README
+# Blogger - [View in Browser](https://calm-garden-13460.herokuapp.com/)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+![Main-Page](screenshot.png)
 
-Things you may want to cover:
+-This is implementation of rails to create a simple blogger, following the given instructions from zero to completion.  
 
-* Ruby version
+-Credit to *(http://tutorials.jumpstartlab.com/projects/blogger.html)*, where they had already provided the skeleton code for html/css and provided the instruction of rails in detail. I just simply followed the instructions to get exposure. 
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
